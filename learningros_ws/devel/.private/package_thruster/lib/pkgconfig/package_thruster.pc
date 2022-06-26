@@ -1,0 +1,8 @@
+prefix=/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_thruster
+
+Name: package_thruster
+Description: Description of package_thruster
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

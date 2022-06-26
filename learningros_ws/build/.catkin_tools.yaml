@@ -1,0 +1,6 @@
+devel_space: /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel
+install: false
+install_space: /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/install
+profile: default
+source_space: /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/src
+workspace: /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws

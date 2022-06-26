@@ -1,0 +1,8 @@
+prefix=/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/install
+
+Name: package_tiga
+Description: Description of package_tiga
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

@@ -1,0 +1,14 @@
+[31m[1mCMake Error[0m at /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/build/package_tiga/cmake/package_tiga-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/src/package_tiga/msg/joystick.msg'
+  depends on.  Did you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [Int16] in package [package_tiga] with paths
+  [['/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/src/package_tiga/msg',
+  '/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/src/package_tiga/msg']]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:70 (generate_messages)
+
+
+make: *** [Makefile:502: cmake_check_build_system] Error 1

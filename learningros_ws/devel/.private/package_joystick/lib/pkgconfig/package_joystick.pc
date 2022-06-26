@@ -1,0 +1,8 @@
+prefix=/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_joystick
+
+Name: package_joystick
+Description: Description of package_joystick
+Version: 0.0.0
+Cflags: -I/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_joystick/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime

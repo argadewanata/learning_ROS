@@ -1,0 +1,5 @@
+package_satu
+/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_satu/cmake.lock /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/./cmake.lock
+/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_satu/share/package_satu/cmake/package_satuConfig-version.cmake /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_satu/cmake/package_satuConfig-version.cmake
+/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_satu/share/package_satu/cmake/package_satuConfig.cmake /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_satu/cmake/package_satuConfig.cmake
+/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_satu/lib/pkgconfig/package_satu.pc /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/lib/pkgconfig/package_satu.pc

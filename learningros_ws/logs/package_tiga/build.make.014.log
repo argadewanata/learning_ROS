@@ -1,0 +1,8 @@
+[  0%] Built target _package_tiga_generate_messages_check_deps_joystick
+[  0%] Built target _package_tiga_generate_messages_check_deps_joystick_pos
+[ 50%] Built target package_tiga_generate_messages_py
+[ 50%] Built target package_tiga_generate_messages_eus
+[ 66%] Built target package_tiga_generate_messages_cpp
+[ 83%] Built target package_tiga_generate_messages_lisp
+[100%] Built target package_tiga_generate_messages_nodejs
+[100%] Built target package_tiga_generate_messages

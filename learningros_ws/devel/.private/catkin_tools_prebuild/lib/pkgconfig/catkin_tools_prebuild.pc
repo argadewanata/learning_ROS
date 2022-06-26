@@ -1,0 +1,8 @@
+prefix=/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/catkin_tools_prebuild
+
+Name: catkin_tools_prebuild
+Description: Description of catkin_tools_prebuild
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

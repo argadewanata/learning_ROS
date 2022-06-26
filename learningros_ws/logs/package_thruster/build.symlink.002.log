@@ -1,0 +1,7 @@
+Symlinking /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/roseus/ros/package_thruster/manifest.l
+Linked: (/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_thruster/share/package_thruster/cmake/package_thrusterConfig.cmake, /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_thruster/cmake/package_thrusterConfig.cmake)
+Symlinking /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_thruster/cmake/package_thruster-msg-extras.cmake
+Symlinking /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_thruster/cmake/package_thruster-msg-paths.cmake
+Linked: (/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_thruster/share/package_thruster/cmake/package_thrusterConfig-version.cmake, /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/share/package_thruster/cmake/package_thrusterConfig-version.cmake)
+Symlinking /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/lib/python3/dist-packages/package_thruster/__init__.py
+Linked: (/home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/.private/package_thruster/lib/pkgconfig/package_thruster.pc, /home/argadewanata/Documents/Banyubramanta/SAUVC_2022/Belajar_ROS/learningros_ws/devel/lib/pkgconfig/package_thruster.pc)
